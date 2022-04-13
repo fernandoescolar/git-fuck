@@ -1,6 +1,8 @@
 # git-fuck
 IRL git sub commands
 
+![git-fuck](https://user-images.githubusercontent.com/3491424/163205319-ba277d07-9ff6-4770-85c7-2f3a4facc3de.png)
+
 ## Install
 
 Open bash terminal and execute the following command:
