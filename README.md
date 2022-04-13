@@ -37,4 +37,10 @@ git fuck off # reset to HEAD~1
 git fuck off {number} # reset to HEAD~{number}
 ```
 
+## Kudos
 
+@mrsdaehin,
+
+@aming27,
+
+and https://github.com/fredszaq/git-fuckit for the inspiration.
